@@ -1,8 +1,8 @@
-# Hi there, I'm [Aapka Naam]! 👋
-### Full-Stack Developer | Open Source Enthusiast | Tech Blogger
+# Hi there, I'm Shinubo! 👋
+### Full-Stack Developer | Open Source Enthusiast
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=[Aapka-GitHub-Username]&label=Profile%20views&color=0e75b6&style=flat" alt="Views" />
+  <img src="https://komarev.com/ghpvc/?username=shinubo28always&label=Profile%20views&color=0e75b6&style=flat" alt="Views" />
 </p>
 
 ---
@@ -10,11 +10,10 @@
 ## 🚀 About Me
 I am a passionate developer who loves building clean, scalable, and user-friendly applications. I enjoy solving complex problems, exploring new technologies, and contributing to open-source projects.
 
-- 🔭 I’m currently working on **[Project Name]**
-- 🌱 I’m currently learning **[New Tech/Framework, e.g., Docker, Next.js]**
-- 👯 I’m looking to collaborate on **Open Source Projects**
-- 💬 Ask me about **React, Node.js, or JavaScript**
-- 📫 How to reach me: **[Aapka Email]**
+- 🔭 I’m currently working on Web Development Projects
+- 🌱 I’m currently learning modern JavaScript frameworks & Tools
+- 👯 I’m looking to collaborate on Open Source Projects
+- 💬 Ask me about React, Node.js, or JavaScript
 
 ---
 
@@ -40,15 +39,6 @@ I am a passionate developer who loves building clean, scalable, and user-friendl
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[Aapka-GitHub-Username]&show_icons=true&theme=gotham&include_all_commits=true&count_private=true" alt="GitHub Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[Aapka-GitHub-Username]&layout=compact&theme=gotham" alt="Top Languages" height="180" />
-</p>
-
----
-
-## 🌐 Connect with Me
-
-<p align="left">
-  <a href="https://linkedin.com/in/[Aapka-Linkedin]" target="blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://twitter.com/[Aapka-Twitter]" target="blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter" /></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=shinubo28always&show_icons=true&theme=gotham&include_all_commits=true&count_private=true" alt="GitHub Stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shinubo28always&layout=compact&theme=gotham" alt="Top Languages" height="180" />
 </p>
